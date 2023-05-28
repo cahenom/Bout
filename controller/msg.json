@@ -1,0 +1,17 @@
+{
+	"limitsUsed": "Limit terpakai (-1)",
+	"banned": "Anda telah di *ban* oleh owner, hubungi *owner* untuk membuka",
+	"notRegister": "Anda belum terdaftar di *database* kami, silahkan daftar terlebih dahulu dengan mengetik: *.register nama.umur*",
+    "notPremium": "Anda bukan user *premium*, beli dulu sana ke *owner bot*",
+    "success": "Success ✓",
+    "error": "Error, not found",
+    "admin": "Fitur khusus admin group!",
+    "botAdmin": "Bot harus menjadi admin terlebih dahulu!",
+    "owner": "Fitur khusus owner bot",
+    "group": "Fitur khusus group chat",
+    "private": "Fitur khusus private chat!",
+    "bot": "Fitur khusus nomor bot",
+    "wait": "Tunggu sebentar...",
+    "wait2": "Wait a moment...",
+    "endLimit": "Limit harian anda telah habis, limit akan *direset setiap pukul 00:00 WIB.*\n\nKetik *.addlimit* untuk menambahkan limit."
+}
